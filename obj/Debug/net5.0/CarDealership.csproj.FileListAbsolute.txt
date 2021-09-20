@@ -1,0 +1,16 @@
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\obj\Debug\net5.0\CarDealership.csprojAssemblyReference.cache
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\obj\Debug\net5.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\obj\Debug\net5.0\CarDealership.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\obj\Debug\net5.0\CarDealership.AssemblyInfo.cs
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\obj\Debug\net5.0\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\bin\Debug\net5.0\CarDealership.exe
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\bin\Debug\net5.0\CarDealership.deps.json
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\bin\Debug\net5.0\CarDealership.runtimeconfig.json
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\bin\Debug\net5.0\CarDealership.runtimeconfig.dev.json
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\bin\Debug\net5.0\CarDealership.dll
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\bin\Debug\net5.0\ref\CarDealership.dll
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\bin\Debug\net5.0\CarDealership.pdb
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\obj\Debug\net5.0\CarDealership.dll
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\obj\Debug\net5.0\ref\CarDealership.dll
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\obj\Debug\net5.0\CarDealership.pdb
+C:\Users\natha\Desktop\epicodus\cs\CarDealership\obj\Debug\net5.0\CarDealership.genruntimeconfig.cache
